@@ -6,7 +6,7 @@
 /*   By: ghoyaux <ghoyaux@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/24 09:07:19 by ghoyaux           #+#    #+#             */
-/*   Updated: 2025/03/24 09:45:36 by ghoyaux          ###   ########.fr       */
+/*   Updated: 2025/03/24 09:54:03 by ghoyaux          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -58,6 +58,5 @@ void			ft_free_tbl(char **array, size_t j);
 // Use chained list for parsing
 // Init all structs
 // Init hidden file logs
-// Set-up basic interactives statement : CTRL + C, ect.
 
 #endif
